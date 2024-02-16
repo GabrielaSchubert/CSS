@@ -1,0 +1,35 @@
+/* Por cor */
+html {
+    background-color:  cadetblue;
+}
+h1 {
+    color: #ffffff;
+}
+.box-1, .box-3, .box-5, .box-7 {
+    display: inline-block;
+    width: 180px;
+    height: 150px;
+    background-color: brown;
+}
+.box-2, .box-4, .box-6, .box-8 {
+    display: inline-block;
+    width: 150px;
+    height: 180px;
+    background-color: #AA5577;
+}
+/* Por código hexadecimal  
+Hexadecimal = 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F.. 
+Misture as cores 
+Vermelho - pouco - 2
+Verde - médio - 7
+Azul - muito - E
+background-color: #27E; 
+
+Color Picker - Seletor de Cores
+RGB = red/green/blue / Cor; #27E
+RRGGBB = Cor; #2277EE
+alpha (transparência) = RRGGBBAA / Cor; #2277EE55 */ 
+
+/* Código RGB = rgb(0,0,0); De 0 até 255
+
+Código HSL do 0 até 360, (matiz, saturação e luminuosidade), hsl(20, 96%, 44%); */
