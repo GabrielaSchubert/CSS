@@ -1,0 +1,15 @@
+/* O * serve para aplicar regras a todos os itens do documento */
+*{margin: 0; padding: 0;}
+/* Aula 02 - Seletor tag */
+h1 {color: blueviolet; font-size: 40px;}
+p {color: green; font-size: 20px;}
+
+/* Seletor atributo */
+input[type="text"] {width: 200px; background-color: #ccc; height: 30px; border: none;}
+input[type="email"] {width: 200px; background-color: #ccc; height: 30px; border: none;}
+input[type="submit"] {width: 50px; background-color: green; height: 30px; border: none; cursor: pointer; color: #fff;} 
+
+/* Aula 01 - Exemplos CSS
+h1 {color: blueviolet; font-size: 60px; font-family: tahoma;}*/
+/* Aula 03 - Agrupamento
+h1, h2, p {color: red; text-align: center;} */
